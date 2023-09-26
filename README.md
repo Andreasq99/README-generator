@@ -18,7 +18,7 @@ To begin, download this repository. In Node, run 'npm install' to install inquir
 ## Usage <a name="usage"></a>
 Once you start the CLI, just fowllow the prompts, like in this video! 
 
-<video src="./assets/usage-video.mp4"></video>
+![Example Gif](./assets/usage-video.gif)
 
 
 ## Contributing <a name="contributing"></a>
